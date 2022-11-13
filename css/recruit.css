@@ -33,6 +33,7 @@
   font-size: 20px;
   border-bottom: solid 3px whitesmoke;
   padding-left: 30px;
+  text-align: center;
 }
 .item_inner{
   display: flex;
